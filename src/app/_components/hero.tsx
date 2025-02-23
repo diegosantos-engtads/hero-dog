@@ -24,7 +24,7 @@ export function Hero() {
           <div className="space-y-6">
             <h1
               className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10"
-              data-aos="fade-down"
+              data-aos="fade-up"
             >
               Seu pet merece cuidado, carinho e atenção especial.
             </h1>
